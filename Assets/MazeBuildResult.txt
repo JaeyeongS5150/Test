@@ -1,0 +1,1 @@
+Created MazeMap: 28 wall segments, two open pits, three linked Trap prefabs, Knight and GameManager.
